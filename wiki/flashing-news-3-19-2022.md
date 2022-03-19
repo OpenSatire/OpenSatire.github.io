@@ -1,4 +1,4 @@
-# Flashing news
+# Flashing news 3/19/2022
 ## Microsoft Supports open source by getting angry at people from System76(an open source PC company)
 Microsoft alledgedly told one of the reporters that Open Source Software should only be used in professional cases. Not for consumers.
 ## Smart toilet leak
